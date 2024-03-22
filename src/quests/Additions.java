@@ -10,7 +10,7 @@ public class Additions {
         int intSecond = scanner.nextInt();
 
         int intResult = intFirst + intSecond;
-        System.out.print("Sum : "+intResult);
+        System.out.println("Sum : "+intResult);
 
         scanner.close();
     }
