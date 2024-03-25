@@ -16,8 +16,19 @@ public class pollsWithoutDB {
 
         listOption.add("1) 좋음 2) 중간 3) 나쁨");
 
+        // for-loop
         for (int i = 0; i < listQuestion.size(); i++) {
             System.out.println("question :" +listQuestion.get(i));
+            System.out.println("option:" +listOption);
+            System.out.print("answer : ");
+            String strAnswer = scanner.nextLine();
+            listAnswer.add(strAnswer);
+        }
+        System.out.println("답한 내용 출력 : "+listAnswer);
+
+        // for-each
+        for (String i : listQuestion) {
+            System.out.println("question :" +i);
             System.out.println("option:" +listOption);
             System.out.print("answer : ");
             String strAnswer = scanner.nextLine();
