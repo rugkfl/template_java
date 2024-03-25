@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Booleans",
+            "request": "launch",
+            "mainClass": "Booleans",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "DataTypeArrayLists",
+            "request": "launch",
+            "mainClass": "DataTypeArrayLists",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "DataTypes",
+            "request": "launch",
+            "mainClass": "DataTypes",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "DataTypesStrings",
+            "request": "launch",
+            "mainClass": "DataTypesStrings",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "Ifs",
+            "request": "launch",
+            "mainClass": "Ifs",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "LoopsFors",
+            "request": "launch",
+            "mainClass": "LoopsFors",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "LoopsWhiles",
+            "request": "launch",
+            "mainClass": "LoopsWhiles",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "Scanners",
+            "request": "launch",
+            "mainClass": "Scanners",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "Additions",
+            "request": "launch",
+            "mainClass": "quests.Additions",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "ForsIfs",
+            "request": "launch",
+            "mainClass": "quests.ForsIfs",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "WhilesIfs",
+            "request": "launch",
+            "mainClass": "quests.WhilesIfs",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        },
+        {
+            "type": "java",
+            "name": "pollsWithoutDB",
+            "request": "launch",
+            "mainClass": "quests.pollsWithoutDB",
+            "projectName": "template_java_mysql_d0bfbb2d"
+        }
+    ]
+}
