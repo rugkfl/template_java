@@ -22,8 +22,7 @@ public class problemsWithoutDB {
 
         System.out.println("아래는 4개의 Python 관련 문제와 각 문항의 난이도에 따른 점수화");
         for (int i = 0; i < listProblems.size(); i++) {
-            String problems = listProblems.get(i);
-            System.out.println(problems);
+            System.out.println(listProblems.get(i));
             String option = hashOption.get(i + 1);
             System.out.println("답항 : "+option);
             System.out.print("정답 : ");
