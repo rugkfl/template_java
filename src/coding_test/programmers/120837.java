@@ -26,15 +26,16 @@ class Solution_120837 {
 
         int answer = intCaptin + intSolider + intWorker;
         
-        // int hp = 999;
+        // int hp = 23;
         // int captin = 5;
         // int soldier = 3;
 
         // int answer = hp / captin; // 4 => captin
 
-        // hp = hp % captin; // captin의 나머지
+        // hp = hp % captin; // 3 => captin의 나머지
 
-        // answer = hp / soldier +  hp % soldier + answer; // => solider + worker
+        // answer = hp / soldier(= 1) +  hp % soldier(= 0) + answer(= 4); // => solider + worker
+         // answer = 5
         
 
 
