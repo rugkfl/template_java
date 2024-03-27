@@ -29,5 +29,3 @@ public class Solution_120899 {
         System.out.println(result[1]);
     }
 }
-
-
